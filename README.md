@@ -21,13 +21,12 @@
 - NodeJS
 
 
-## Awesome Projects 📚
+## Proyectos interesantes 📚
 - [Links  👀](https://github.com/felipegallegoramirez/Links) 
 - [Kour  👀 💻](https://github.com/felipegallegoramirez/kour) 
 - [Pu  👀](https://github.com/felipegallegoramirez/PU) 
-- [Hogarcolombia  👀 💻](https://github.com/felipegallegoramirez/HogarColombia) 
 - [Frontend noob  👀](https://github.com/felipegallegoramirez/Frontend-Noob) 
-- [Anhel  💻](https://github.com/felipegallegoramirez/anhel) 
+- [Google clon  👀](https://github.com/felipegallegoramirez/Google-Clon) 
 
 
 
