@@ -13,20 +13,21 @@
 
 
 ## Tecnologias 👨‍💻
-- Angular, javascript, typescript y css
-- Python y Django ⭐
+- Angular, javascript, typescript y css ⭐
+- Python y Django
 - SQL Y NoSQL
 - Docker
 - Arduino y electronicos
-- NodeJS
+- NodeJS ⭐
 
 
 ## Proyectos interesantes 📚
+- [Ezco  👀](https://github.com/felipegallegoramirez/Ezco) 
+- [Blog  👀 💻](https://github.com/felipegallegoramirez/Blog) 
 - [Links  👀](https://github.com/felipegallegoramirez/Links) 
 - [Kour  👀 💻](https://github.com/felipegallegoramirez/kour) 
 - [Pu  👀](https://github.com/felipegallegoramirez/PU) 
 - [Frontend noob  👀](https://github.com/felipegallegoramirez/Frontend-Noob) 
-- [Google clon  👀](https://github.com/felipegallegoramirez/Google-Clon) 
 
 
 

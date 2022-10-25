@@ -13,6 +13,8 @@
 
 
 ## Frontend Projects 👀
+- [Ezco  👀](https://github.com/felipegallegoramirez/Ezco) 
+- [Blog  👀 💻](https://github.com/felipegallegoramirez/Blog) 
 - [Biblioteca  👀 💻](https://github.com/felipegallegoramirez/Biblioteca) 
 - [Links  👀](https://github.com/felipegallegoramirez/Links) 
 - [Kour  👀 💻](https://github.com/felipegallegoramirez/kour) 
