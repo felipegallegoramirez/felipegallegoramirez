@@ -44,12 +44,12 @@
         "data": {
             "title": "Tecnologias 👨‍💻",
             "tech": [
-                "Angular, javascript, typescript y css",
-                "Python y Django ⭐",
+                "Angular, javascript, typescript y css ⭐",
+                "Python y Django",
                 "SQL Y NoSQL",
                 "Docker",
                 "Arduino y electronicos",
-                "NodeJS"
+                "NodeJS ⭐"
             ]
         }
     },
