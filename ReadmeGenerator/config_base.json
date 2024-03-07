@@ -46,10 +46,12 @@
             "tech": [
                 "Angular, javascript, typescript y css ⭐",
                 "Python y Django",
-                "SQL Y NoSQL",
+                "SQL con Mysql, sqLite y  postgreSQL",
+                "noSQL con firebase y MongoDB",
                 "Docker",
-                "Arduino y electronicos",
-                "NodeJS ⭐"
+                "Arduino, esp32 y electronicos",
+                "NodeJS ⭐",
+                "Java , SpringBoot"
             ]
         }
     },
