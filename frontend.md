@@ -29,4 +29,4 @@
 
 <br>
 
-<img src="https://github.com/felipegallegoramirez/felipegallegoramirez/blob/master/src/footer.png">
+<img src="https://github.com/felipegallegoramirez/felipegallegoramirez/blob/main/misc/footer.png">
