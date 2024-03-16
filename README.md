@@ -1,5 +1,5 @@
 
-<img src="https://github.com/felipegallegoramirez/felipegallegoramirez/blob/master/src/banner.png">
+<img src="https://github.com/felipegallegoramirez/felipegallegoramirez/blob/main/misc/banner.png">
 
 # Hola, Soy Felipe Gallego Ramirez 🔥
 `Change the world (?)`<br><em> Un programador en formación con enfoque formativo en desarrollo de backend y desarrollo web. Con gran ambición por el futuro y constante aprendizaje.</em>
@@ -40,4 +40,4 @@
 </a>
 </p>
 
-<img src="https://github.com/felipegallegoramirez/felipegallegoramirez/blob/master/src/footer.png">
+<img src="https://github.com/felipegallegoramirez/felipegallegoramirez/blob/main/misc/footer.png">
