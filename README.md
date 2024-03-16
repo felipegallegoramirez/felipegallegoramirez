@@ -6,29 +6,32 @@
 
 
 <p align="center">
-<a href="https://github.com/felipegallegoramirez/felipegallegoramirez/blob/master/ai.md">🤖</a>
-<a href="https://github.com/felipegallegoramirez/felipegallegoramirez/blob/master/frontend.md">👀</a>
-<a href="https://github.com/felipegallegoramirez/felipegallegoramirez/blob/master/datascience.md">📙</a>
-<a href="https://github.com/felipegallegoramirez/felipegallegoramirez/blob/master/backend.md">💻</a>
+<a href="https://github.com/felipegallegoramirez/felipegallegoramirez/blob/main/ai.md">🤖</a>
+<a href="https://github.com/felipegallegoramirez/felipegallegoramirez/blob/main/frontend.md">👀</a>
+<a href="https://github.com/felipegallegoramirez/felipegallegoramirez/blob/main/datascience.md">📙</a>
+<a href="https://github.com/felipegallegoramirez/felipegallegoramirez/blob/main/backend.md">💻</a>
 </p>
 
 
 ## Tecnologias 👨‍💻
 - Angular, javascript, typescript y css ⭐
-- Python y Django
-- SQL Y NoSQL
+- Python , Django Y FastAPI
+- SQL con Mysql, sqLite y  postgreSQL
+- NOSQL con firebase y MongoDB
 - Docker
-- Arduino y electronicos
+- Arduino, esp32 y electronicos
 - NodeJS ⭐
+- Java y SpringBoot
 
 
 ## Proyectos interesantes 📚
 - [Ezco  👀](https://github.com/felipegallegoramirez/Ezco) 
-- [Blog  👀 💻](https://github.com/felipegallegoramirez/Blog) 
-- [Links  👀](https://github.com/felipegallegoramirez/Links) 
-- [Kour  👀 💻](https://github.com/felipegallegoramirez/kour) 
-- [Pu  👀](https://github.com/felipegallegoramirez/PU) 
-- [Frontend noob  👀](https://github.com/felipegallegoramirez/Frontend-Noob) 
+- [Fup  👀 💻](https://github.com/felipegallegoramirez/FUP) 
+- [Anhel  👀](https://github.com/felipegallegoramirez/anhel) 
+- [WatchAI  👀 💻](https://github.com/felipegallegoramirez/WatchAI) 
+- [HogarColombia  👀](https://github.com/felipegallegoramirez/HogarColombia) 
+- [Citas  👀](https://github.com/felipegallegoramirez/citas)
+- [ZoMIA  👀](https://github.com/felipegallegoramirez/ZoMIA) 
 
 
 

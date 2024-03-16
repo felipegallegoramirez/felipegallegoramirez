@@ -5,15 +5,17 @@
 
 
 <p align="center">
-<a href="https://github.com/felipegallegoramirez/felipegallegoramirez/blob/master/ai.md">🤖</a>
-<a href="https://github.com/felipegallegoramirez/felipegallegoramirez/blob/master/frontend.md">👀</a>
-<a href="https://github.com/felipegallegoramirez/felipegallegoramirez/blob/master/datascience.md">📙</a>
-<a href="https://github.com/felipegallegoramirez/felipegallegoramirez/blob/master/backend.md">💻</a>
+<a href="https://github.com/felipegallegoramirez/felipegallegoramirez/blob/main/ai.md">🤖</a>
+<a href="https://github.com/felipegallegoramirez/felipegallegoramirez/blob/main/frontend.md">👀</a>
+<a href="https://github.com/felipegallegoramirez/felipegallegoramirez/blob/main/datascience.md">📙</a>
+<a href="https://github.com/felipegallegoramirez/felipegallegoramirez/blob/main/backend.md">💻</a>
 </p>
 
 
 ## AI Projects 🤖
 
+- [WatchAI  👀 💻](https://github.com/felipegallegoramirez/WatchAI) 
+- [ZoMIA  👀](https://github.com/felipegallegoramirez/ZoMIA) 
 
 
 <br>
