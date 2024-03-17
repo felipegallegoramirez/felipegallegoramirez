@@ -39,7 +39,7 @@
 
 <p align="center">
 <a href="#user-30538313-pinned-items-reorder-form">
-<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=felipegallegoramirez&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" alt="FelipeGallego's Github Stats"/>
+<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=felipegallegoramirez&show_icons=true&include_all_commits=true&count_private=true&bg_color=1A1C1C&title_color=AE3DFF&border_color=AE3DFF&text_color=D9D9D9&ring_color=AE3DFF&icon_color=AE3DFF" alt="FelipeGallego's Github Stats"/>
 </a>
 </p>
 
